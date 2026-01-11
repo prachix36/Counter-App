@@ -16,8 +16,8 @@ It allows users to increment, decrement, and reset a number with a clean user in
 - JavaScript (DOM Manipulation)
 
 ## 📂 Project Structure
-Counter.html
-counter.css
+Counter.html <br>
+counter.css<br>
 counter.js
 
 ## 📸 Preview
@@ -25,8 +25,8 @@ counter.js
 
 ## ▶️ How to Run
 1. Download or clone the repository
-2. Open `index.html` in any browser
-3. Use the buttons to interact with the counter
+2. Open `Counter.html` in any browser
+3. Use the buttons or input the number to interact with the counter
 
 ## 💡 Learning Outcome
 - DOM manipulation
